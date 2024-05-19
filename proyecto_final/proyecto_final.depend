@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1716088681 source:c:\users\luise\onedrive\documentos\inco\stl2\proyecto_final\main.cpp
+	"pila.h"
+	<iostream>
+	<string>
+	<stack>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+
+1715648115 c:\users\luise\onedrive\documentos\inco\stl2\proyecto_final\include\pila.h
+	<list>
+	<iostream>
+	<string>
+
+1716088589 source:c:\users\luise\onedrive\documentos\inco\stl2\proyecto_final\src\pila.cpp
+	"pila.h"
+	<iostream>
+	<sstream>
+
